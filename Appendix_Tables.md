@@ -84,7 +84,7 @@
 
 
 
-**附表2 开放式编码结果（初始范畴及其包含的初始概念）**
+**附表2 开放式编码结果（初始范畴及其包含的初始概念）**  
 **Open coding results （Initial categories and their initial concepts）**
 
 | 初始范畴     | 初始概念                                                                                                                                                              |
