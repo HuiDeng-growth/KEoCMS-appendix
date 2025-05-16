@@ -2,7 +2,7 @@
 
 本项目为期刊论文《功勋科学家知识演进的内涵、特征与形态研究》附表材料展示：
 
-- 附表1、附表2详见：[Appendix-Tables.md](Appendix-Tables.md)
+- 附表1、附表2详见：[Appendix_Tables.md](Appendix_Tables.md)
   
 - 附表 Word 文档下载：
   - [附表1-初始概念编码.docx](./附表1-初始概念编码.docx)
